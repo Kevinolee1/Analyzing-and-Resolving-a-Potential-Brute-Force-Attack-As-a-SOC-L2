@@ -7,3 +7,4 @@ Select the “Potential Brute Force Attack” ticket to review the alert and beg
 ![Image alt](https://github.com/Kevinolee1/Analyzing-and-Resolving-a-Potential-Brute-Force-Attack-As-a-SOC-L2/blob/18da2301bdfe4acb40ff7b07ab73620b41a9c009/Screenshot%202026-08-21%20014806.png)
 Scroll down to the Post Reply section. Under Response, select Last Message. In the text box, document the investigation findings, response actions taken, resolution, and final ticket status.
 ![image alt](https://github.com/Kevinolee1/Analyzing-and-Resolving-a-Potential-Brute-Force-Attack-As-a-SOC-L2/blob/0c8dd71ecf026738c7e2515004efa7239512d98c/Screenshot%202026-08-21%20014844.png)
+For the Ticket Status, select Closed, then click Post Reply to finalize and close the ticket.
